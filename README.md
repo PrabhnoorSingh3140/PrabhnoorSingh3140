@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @PrabhnoorSingh3140
 - 👀 I’m interested in Software Engineering
 - 🌱 I’m currently pursuing Btech Computer Science and Engineering at Lovely Professional University
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me singhprabhnoor721@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I'am a percussionist
 
 <!---
 PrabhnoorSingh3140/PrabhnoorSingh3140 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
