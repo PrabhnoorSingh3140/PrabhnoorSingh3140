@@ -1,6 +1,8 @@
 <p align="center">
   <img src="github-banner.png" alt="Prabhnoor Singh - GitHub Profile Banner" width="100%">
 </p>
+
+
 - 👋 Hi, I’m @PrabhnoorSingh3140
   
 - 👀 I’m interested in Software Engineering
@@ -8,6 +10,13 @@
 - 📫 How to reach me singhprabhnoor721@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'am a percussionist
+
+I'm a Computer Science and Engineering student passionate about problem-solving, software development, and turning ideas into practical solutions. I enjoy exploring new technologies, building projects, and continuously improving my technical skills.
+
+I have experience working with C++, Python, SQL, React, and JavaScript, along with an interest in data analytics, machine learning, and web development. I also enjoy solving coding problems and working with tools like Git and GitHub to manage projects and collaborate effectively.
+
+Through my academic projects, certifications, and hands-on learning, I'm constantly looking for opportunities to apply what I learn to real-world challenges. I'm always eager to explore new technologies, learn from others, and contribute to projects that make a meaningful impact.
+
 
 <!---
 PrabhnoorSingh3140/PrabhnoorSingh3140 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
