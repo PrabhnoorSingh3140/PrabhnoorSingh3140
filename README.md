@@ -13,3 +13,47 @@
 PrabhnoorSingh3140/PrabhnoorSingh3140 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+## 🤝 Connect with Me
+
+<p align="left">
+  <a href="https://github.com/PrabhnoorSingh3140">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:singhprabhnoor721@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <!-- Replace YOUR_LINKEDIN_USERNAME with your actual LinkedIn username -->
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
+
+## 🛠️ Languages and Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,python,mysql,html,css,js,react,nodejs,git,github,vscode" alt="Languages and Tools"/>
+</p>
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=PrabhnoorSingh3140&show_icons=true&theme=tokyonight&hide_border=true" alt="Prabhnoor's GitHub Stats"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrabhnoorSingh3140&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
+</p>
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=PrabhnoorSingh3140&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
+</p>
+
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PrabhnoorSingh3140&theme=tokyo-night&hide_border=true" alt="GitHub Contribution Activity"/>
+</p>
+
+---
+<p align="center">
+  💻 Always learning, building, and improving.
+</p>
