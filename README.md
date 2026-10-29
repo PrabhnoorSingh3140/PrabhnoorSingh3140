@@ -57,21 +57,7 @@ You can click the Preview link to take a look at your changes.
   <img src="https://streak-stats.demolab.com?user=PrabhnoorSingh3140&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
 </p>
 
-## 🐍 Contribution Graph
 
-<h2 align="center">🐍 Contribution Graph</h2>
-
-<p align="center">
-  <a href="https://github.com/PrabhnoorSingh3140">
-    <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=PrabhnoorSingh3140&theme=tokyo-night&hide_border=true"
-      alt="Prabhnoor's GitHub Contribution Graph"
-      width="100%"
-    />
-  </a>
-</p>
-
----
 <p align="center">
   💻 Always learning, building, and improving.
 </p>
