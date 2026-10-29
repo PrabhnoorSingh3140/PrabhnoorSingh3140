@@ -36,9 +36,19 @@ You can click the Preview link to take a look at your changes.
 
 ## 📊 GitHub Statistics
 
+<h2 align="center">📊 GitHub Statistics</h2>
+
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=PrabhnoorSingh3140&show_icons=true&theme=tokyonight&hide_border=true" alt="Prabhnoor's GitHub Stats"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrabhnoorSingh3140&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
+  <img
+    width="49%"
+    src="https://github-stats-extended.vercel.app/api?username=PrabhnoorSingh3140&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="Prabhnoor's GitHub Stats"
+  />
+  <img
+    width="49%"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=PrabhnoorSingh3140&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Most Used Languages"
+  />
 </p>
 
 ## 🔥 Contribution Streak
@@ -49,8 +59,16 @@ You can click the Preview link to take a look at your changes.
 
 ## 🐍 Contribution Graph
 
+<h2 align="center">🐍 Contribution Graph</h2>
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PrabhnoorSingh3140&theme=tokyo-night&hide_border=true" alt="GitHub Contribution Activity"/>
+  <a href="https://github.com/PrabhnoorSingh3140">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=PrabhnoorSingh3140&theme=tokyo-night&hide_border=true"
+      alt="Prabhnoor's GitHub Contribution Graph"
+      width="100%"
+    />
+  </a>
 </p>
 
 ---
